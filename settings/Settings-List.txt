@@ -2,3 +2,5 @@ Online-Settings:
   - default
   - AAC_1.9.10
   - spartan
+  - ncp
+  - cubecraft
