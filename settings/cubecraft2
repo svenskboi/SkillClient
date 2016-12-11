@@ -1,0 +1,72 @@
+# Cubecraft by TizianKiller 
+say Loading_config_for_Cubecraft_by_TizianKiller
+say Last_Updated:_11.12.2016_14:34
+#
+#
+value FastUse Bow 50.0
+value FastBreak FastBreak 1.2
+toggle BlockBuild 1
+toggle Strafe 1
+value Strafe SpeedAir 183.0
+value Strafe SpeedGround 160.0
+bind KillAura 37
+value KillAura attack Nearest
+value KillAura Version einsneun
+value KillAura Teleport false
+value KillAura Range 4.5
+value KillAura Fov 0.0
+value KillAura AttackDelay 9.7
+value KillAura Rotate true
+toggle AntiBlind 1
+bind Fly 34
+value Fly Speedy 6.0
+toggle ChestESP 1
+toggle EntityEspold 1
+value EntityEspold Items true
+value EntityEspold player false
+value EntityEspold Mobs false
+value EntityEspold Other false
+toggle Velocity 1
+value Velocity KnockBackxz -0.2
+value Velocity KnockBacky 1.0
+bind FreeCam 22
+value OutlineESPGlowing Player true
+value OutlineESPGlowing Living true
+value OutlineESPGlowing Everything true
+value OutlineESPGlowing LineWidth 4.0
+toggle FullBright 1
+toggle AntiPushoutofBlock 1
+toggle NoRotation 1
+toggle NameTags 1
+value NameTags Scale 100.0
+toggle AntiCollision 1
+toggle AntiInvisible 1
+toggle AutoArmor 1
+value AutoArmor Speed 5.0
+toggle AutoReSpawn 1
+toggle AutoSprint 1
+toggle BackSprint 1
+toggle BetterIce 1
+value BetterIce Speed 40.0
+bind ChestLoot 76
+value ChestLoot Speed 2.0
+bind DataViewer 55
+bind NoFall 34
+toggle NoSlowdown 1
+value NoSlowdown Cobweb 60.0
+value NoSlowdown Sneak 50.0
+value NoSlowdown Item 70.0
+value EntityInfo Advanced false
+toggle RapidJump 1
+value RapidJump speed 0.0
+bind Step 80
+value Step stepheight 1.0
+value Step AirStep false
+value Step PreStep true
+value TargetEntitys player true
+value TargetEntitys Mobs true
+value TargetEntitys Other false
+value TargetEntitys IgnoreInvisible false
+value TargetEntitys IgnoreElytra true
+value TargetEntitys AntiBotNCP false
+# end
