@@ -6,3 +6,5 @@ Online-Settings:
   - spartan
   - cubecraft
   - cubecraft2
+  - aac3
+  
