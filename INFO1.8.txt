@@ -1,2 +1,2 @@
-1
-BeaconExploit, better Creative Tabs, new GUI, etc
+2
+New Gui, Capes-Api, GodMode, Fly-bypasses, fast Tower bypass for AAC, BeaconExploit, and more
