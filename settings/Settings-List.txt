@@ -1,10 +1,7 @@
 Online-Settings:
   - default
   - CubecraftSkyWars
+  - aac3
   - AAC_1.9.10
   - ncp
   - spartan
-  - cubecraft
-  - cubecraft2
-  - aac3
-  
