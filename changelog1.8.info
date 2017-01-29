@@ -1,0 +1,32 @@
+b6.2
+
++ Added Teleport
++ Added Teleport to Aura
++ Added fast ScaffoldWalk
++ Added GodMode
+° Fixed legit CivBreak
+- Removed Old Gui
+
+b6.1
+
++ Added CivBreak + "legit CivBreak"
+° Fixed CapesAPI
+
+
+b6.0
+
++ 1.8 Version released
++ New Gui
++ Added BeaconExploit
++ AutoRemoving SuspiciousTags from CreativeTab
++ New super-fast Tower bypass for aac :)
++ Auto Cubecraft Fly
++ Capes API
++ Fly Vanilla-Bypass
+° Better KillAura (AAC!)
+° Better Buttons
+° MCLeaks fix
+° New Bow-AimBot
+° Fixed AutoFish
+° Fixed ChestESP
+° Fixed Config loading for Value-Lists (Arrays)
