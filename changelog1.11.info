@@ -1,11 +1,18 @@
-b7
+b7.0 (private Testing currently, b6.2 is up-to-date)
 
 + New Gui like super old gui
 + Added fucker (like legit-Nuker)
 + Added ItemAura
 + Added ItemSpoof
-° Better Teleport for Killaura
-° ScaffoldWalk: autoslot
++ ScaffoldWalk and Tower: Autoslot
++ New MainMenu with Particles
++ New Buttons
++ New Logo
++ Better Teleport for Killaura
++ Added SkillClient-Menu for General Settings
+° Better Tower
+- Removed Session Login
+- Removed AAC related Stuff. Better try LiquidBounce for aac-Servers :)
 
 b6.2
 
