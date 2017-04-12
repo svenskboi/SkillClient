@@ -4,7 +4,11 @@ b7.1
 + Added AntiCheat Detection
 + .rename
 + .lore
-+ .nbt
++ .nbt <copy|set|remove>
++ .enchant knockback 127
++ .book <command|author|title|type|copy|add>
++ .<module> <value-name> <value> (.KillAura range 4.5)
+
 ° Fixed Elytra Boost https://youtu.be/FqZOPVrq0VY
 
 b7.0
