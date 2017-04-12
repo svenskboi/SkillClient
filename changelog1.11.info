@@ -8,6 +8,7 @@ b7.1
 + .enchant knockback 127
 + .book <command|author|title|type|copy|add>
 + .<module> <value-name> <value> (.KillAura range 4.5)
++ Better Creative Menu
 
 ° Fixed Elytra Boost https://youtu.be/FqZOPVrq0VY
 
