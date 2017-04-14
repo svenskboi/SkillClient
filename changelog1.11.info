@@ -7,11 +7,13 @@ b7.1
 + .nbt <copy|set|remove>
 + .enchant knockback 127
 + .book <command|author|title|type|copy|add>
++ .exploit <cmd|target>
 + .hideTags <Enchantments|AttributeModifiers|Unbreakable|CanDestroy|CanPlaceOn|Others>
-+ .spawnpoint x y z
++ .spawnegg <position|motion> [x y z]
++ .inv <player>
 + .<module> <value-name> <value> (.KillAura range 4.5)
 + Better Creative Menu
-
+° Remade ALL chatmods 
 ° Fixed Elytra Boost https://youtu.be/FqZOPVrq0VY
 
 b7.0
