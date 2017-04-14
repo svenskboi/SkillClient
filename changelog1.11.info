@@ -7,6 +7,8 @@ b7.1
 + .nbt <copy|set|remove>
 + .enchant knockback 127
 + .book <command|author|title|type|copy|add>
++ .hideTags <Enchantments|AttributeModifiers|Unbreakable|CanDestroy|CanPlaceOn|Others>
++ .spawnpoint x y z
 + .<module> <value-name> <value> (.KillAura range 4.5)
 + Better Creative Menu
 
