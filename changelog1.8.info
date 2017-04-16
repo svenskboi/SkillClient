@@ -1,3 +1,32 @@
+b7.2
+
++ Added Plugins Exploit by ccbluex
++ Added AntiCheat Detection
++ .rename
++ .lore
++ .nbt <copy|set|remove>
++ .enchant knockback 127
++ .book <command|author|title|type|copy|add>
++ .exploit <cmd|target>
++ .hideTags <Enchantments|AttributeModifiers|Unbreakable|CanDestroy|CanPlaceOn|Others>
++ .spawnegg <position|motion> [x y z]
++ .inv <player>
++ .<module> <value-name> <value> (.KillAura range 4.5)
++ Better Creative Menu
++ New Gui :)
++ Added Fucker
++ Added ItemAura
++ Added ItemSpoof (SlotSpoof)
++ ScaffoldWalk and Tower: Autoslot
++ New MainMenu with Particles
++ New Buttons
++ New Logo
++ Added SkillClient-Menu for General Settings
+° Better Tower
+° Remade ALL chatmods 
+- Removed Session Login
+- Removed AAC related Stuff. Better try LiquidBounce for aac-Servers :)
+
 b6.2
 
 + Added Teleport
