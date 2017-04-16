@@ -1,2 +1,2 @@
-6
-Shared MCLeaks, new Gui, Buttons, Logo, MainMenu with Particles
+7
+New Gui Stuff, .enchant, .rename, .lore, .nbt, Anticheat-Detection
