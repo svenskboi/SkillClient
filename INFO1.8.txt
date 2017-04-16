@@ -1,2 +1,2 @@
-5
-Teleport, fast ScaffoldWalk, legit CivBreak
+6
+New Gui Stuff, .enchant, .rename, .lore, .nbt, Anticheat-Detection
