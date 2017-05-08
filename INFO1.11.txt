@@ -1,2 +1,2 @@
-7
-New Gui Stuff, .enchant, .rename, .lore, .nbt, Anticheat-Detection
+1337
+General improvement, AnticheatDetection, TargetUtil, AntiBot and AdvancedToolBox
