@@ -1,8 +1,10 @@
-dwa
-wad
-dwa
-wad
-wda
+Hi this is a short tutorial on how to use this Client,
 
-wadwad
-wadwawd
+Open Gui: RSHIFT
+Set Bind: In the Gui or ".bind <module> <key>/NONE"
+AccountManager: MultiPlayer -> Accounts -> Add online -> Paste -> Select Account
+Bungeehack: MultiPlayer -> set Checkbox Bungeehack, to change fakeip: edit text under Checkbox
+Disable SkinOverlay: RSHIFT -> HUD -> Skin
+
+Please only download Skillclient from skillclient.com
+SkillClient is free and it will stay like this forever.(donations -> Cape & Ears)
