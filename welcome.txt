@@ -1,3 +1,7 @@
+!!! This is a pre-release !!!
+!!! PLEASE REPORT ANY ISSUES !!!
+!!!
+
 Hi this is a short tutorial on how to use this Client,
 
 Open Gui: RSHIFT
