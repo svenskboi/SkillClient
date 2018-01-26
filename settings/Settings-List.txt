@@ -2,3 +2,4 @@ default
 cubecraft
 ncp
 spartan
+subserver
