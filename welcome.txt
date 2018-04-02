@@ -1,14 +1,11 @@
-!!! This is a pre-release !!!
-!!! PLEASE REPORT ANY ISSUES !!!
-!!!
-
-Hi this is a short tutorial on how to use this Client,
+Short tutorial on how to use SkillClient:
 
 Open Gui: RSHIFT
-Set Bind: In the Gui or ".bind <module> <key>/NONE"
+Set Keybind: In the Gui or ".bind <module> <key>/NONE"
 AccountManager: MultiPlayer -> Accounts -> Add online -> Paste -> Select Account
-Bungeehack: MultiPlayer -> set Checkbox Bungeehack, to change fakeip: edit text under Checkbox
+Bungeehack: MultiPlayer -> set Checkbox Bungeehack; to change IP: edit text under Checkbox
 Disable SkinOverlay: RSHIFT -> HUD -> Skin
 
 Please only download Skillclient from skillclient.com
-SkillClient is free and it will stay like this forever.(donations -> Cape & Ears)
+SkillClient is free and it will stay like this forever.
+Donations -> Special Cape, Role on Discord, etc
